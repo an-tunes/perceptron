@@ -1,11 +1,11 @@
 //---------------------------------------------------------------------------------------------------
 // Implementação de um perceptron em JavaScript.
-// Algorítmo baseado no livro: Redes Neurais Artificiais para Engenharias e Ciências Aplicadas.
+// Algoritmo baseado no livro: Redes Neurais Artificiais para Engenharias e Ciências Aplicadas.
 // Programador: Lucas Antunes - lucas.antunes91@gmail.com
 
 //------------------------------------
 // Variáveis.
-var taxaDeAprendizagem = 0.02;
+var taxaDeAprendizagem = 0.03;
 var resultado_treino = [1, -1, -1, 1];
 var amostras_treino = [
     [-1, -1, -1, -1],
